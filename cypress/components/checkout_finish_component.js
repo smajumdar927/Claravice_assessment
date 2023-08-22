@@ -1,0 +1,1 @@
+export const checkoutFinish = () => cy.get('[data-test="finish"]')
